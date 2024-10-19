@@ -22,8 +22,12 @@ cargo run
 
 ```bash
 node error.js
+```
 
+```bash
 python3 error.py
+```
 
+```bash
 cargo build
 ```
