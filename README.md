@@ -6,7 +6,9 @@ This repository contains examples for a talk at the 0111 CTO Conference 2024.
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
 
+```bash
 git clone https://github.com/ivonnyssen/0111-2024.git
 ```
 
