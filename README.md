@@ -33,3 +33,9 @@ python3 error.py
 ```bash
 cargo build
 ```
+
+### doc-test
+
+```bash
+cargo test
+```
